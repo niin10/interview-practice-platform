@@ -48,6 +48,9 @@ An advanced full-stack platform to practice **real-time technical interviews** �
 
 ---
 
+📫 LinkedIn: [Levent E.](https://www.linkedin.com/in/levent-erdost-2b0784201)  
+💻 GitHub: [@levo-tech7400](https://github.com/levo-tech7400)
+
 
 
 
