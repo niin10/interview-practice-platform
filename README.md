@@ -1,13 +1,47 @@
-## 📸 Screenshots
+# 🧠 Interview Practice Platform
 
-### 🏠 Ana Sayfa
+An advanced full-stack platform to practice **real-time technical interviews** — including live coding, system design, and mock interview scheduling — built with modern web technologies.
+
 ![Main Page](./screenshots/main_page.png)
 
-### 💻 Coding Challenge
-![Coding Challenges](./screenshots/coding-challenges.png)
+---
 
-### 🧱 System Design
-![System Design](./screenshots/system-design.png)
+## 🚀 Features
+
+- 🎥 **Video Interviews** via WebRTC (`simple-peer`)
+- 💻 **Real-time Code Editor** using Monaco Editor
+- 🔌 **Live Collaboration** with Socket.IO
+- 🗓️ **Schedule Mock Interviews** with flexible time slots
+- 🧱 **System Design Practice** with whiteboard-like questions
+- ⚙️ Built with **Next.js**, **TypeScript**, **TailwindCSS**
+
+---
+
+## 🧩 Tech Stack
+
+| Category           | Tech Used                           |
+|--------------------|--------------------------------------|
+| Frontend           | Next.js, TypeScript, TailwindCSS     |
+| Code Editor        | Monaco Editor                        |
+| Video Call         | WebRTC, simple-peer                  |
+| Real-time Comm     | Socket.IO                            |
+| State Management   | React Hooks, Context API             |
+| Scheduling UI      | Custom Calendar & Time Components    |
+
+---
+
+## 📸 Screenshots
+
+### 🏠 Home Page  
+![Home](./screenshots/main_page.png)
+
+### 💻 Coding Challenge  
+![Coding](./screenshots/coding-challenges.png)
+
+### 🧱 System Design  
+![System](./screenshots/system-design.png)
+
+---
 
 
 ## Getting Started
