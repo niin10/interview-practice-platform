@@ -2,6 +2,12 @@
 
 An advanced full-stack platform to practice **real-time technical interviews** — including live coding, system design, and mock interview scheduling — built with modern web technologies.
 
+## ✨ Live Demo
+
+👉 [https://interview-practice-platform-sigma.vercel.app](https://interview-practice-platform-sigma.vercel.app)
+
+[![Vercel](https://vercelbadge.vercel.app/api/niin10/interview-practice-platform)](https://interview-practice-platform-sigma.vercel.app/)
+
 ![Main Page](./screenshots/main_page.png)
 
 ---
@@ -44,10 +50,6 @@ An advanced full-stack platform to practice **real-time technical interviews** �
 ---
 
 
-## ✨ Live Demo
 
-👉 [https://interview-practice-platform-sigma.vercel.app](https://interview-practice-platform-sigma.vercel.app)
-
-[![Vercel](https://vercelbadge.vercel.app/api/niin10/interview-practice-platform)](https://interview-practice-platform-sigma.vercel.app/)
 
 
