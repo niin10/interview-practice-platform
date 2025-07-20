@@ -1,4 +1,14 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## 📸 Screenshots
+
+### 🏠 Ana Sayfa
+![Main Page](./screenshots/main_page.png)
+
+### 💻 Coding Challenge
+![Coding Challenges](./screenshots/coding-challenges.png)
+
+### 🧱 System Design
+![System Design](./screenshots/system-design.png)
+
 
 ## Getting Started
 
