@@ -44,7 +44,7 @@ An advanced full-stack platform to practice **real-time technical interviews** â
 ![Coding](./screenshots/code_challenges_page.png)
 
 ### ðŸ§± System Design  
-![System](./screenshots/system-design.png)
+![System](./screenshots/system_design_challenge_page.png)
 
 ---
 
