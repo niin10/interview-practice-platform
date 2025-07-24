@@ -8,7 +8,7 @@ An advanced full-stack platform to practice **real-time technical interviews** â
 
 [![Vercel](https://vercelbadge.vercel.app/api/niin10/interview-practice-platform)](https://interview-practice-platform-sigma.vercel.app/)
 
-![Main Page](./screenshots/main_page.png)
+![Main Page](./screenshots/main_pagea.png)
 
 ---
 
