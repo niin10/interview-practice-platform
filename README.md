@@ -46,6 +46,12 @@ An advanced full-stack platform to practice **real-time technical interviews** �
 ### 🧱 System Design  
 ![System](./screenshots/system_design_challenge_page.png)
 
+### 🧱 System Design  
+![Schedule](./screenshots/schedule_mock_interview_page.png)
+
+### 🧱 System Design  
+![Interwiew](./screenshots/mock_interview_session_page.png)
+
 ---
 
 📫 LinkedIn: [Levent E.](https://www.linkedin.com/in/levent-erdost-2b0784201)  
